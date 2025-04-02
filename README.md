@@ -9,6 +9,7 @@ LLM Call Center,AI Call Center,大模型呼叫中心,AI Contact Center,大模型
 
 ## 📫 How to reach us:
 - 官方WeChat:freeipcc
+- Whatsapp：<a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">Click WhatsApp to Chat</a>
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
