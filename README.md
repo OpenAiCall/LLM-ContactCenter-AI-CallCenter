@@ -1,5 +1,5 @@
 # LLM-ContactCenter-AI-CallCenter 大模型时代的呼叫中心、智能呼叫中心
-LLM Call Center,AI Call Center,大模型呼叫中心,AI Contact Center,大模型客服系统，可以对接市面上主流模型与私有模型：OpenAI,LLaMA,Kimi,通义千问,智谱AI,讯飞星火,Gemini,Xorbits Inference,Amazon Bedrock,火山引擎,腾讯混元,Claude,Bard,DeepSeek,Azure OpenAI,千帆大模型,Ollama,qwen,vLLM；contact center,call center,cc,ipcc,呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，呼叫中心系统，话务系统,智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型呼叫中心，联络中心，客服中心，AI，freeswitch，opensips，LLM，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄），大模型，LLM，LangChain，RAG检索模块!!!!!
+LLM Call Center,AI Call Center,大模型呼叫中心,AI Contact Center,大模型客服系统，可以对接市面上主流模型与私有模型：OpenAI,LLaMA,Kimi,通义千问,智谱AI,讯飞星火,Gemini,Xorbits Inference,Amazon Bedrock,火山引擎,腾讯混元,Claude,Bard,DeepSeek,Azure OpenAI,千帆大模型,Ollama,qwen,vLLM；contact center,call center,cc,ipcc,呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，呼叫中心系统，话务系统,智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型呼叫中心，联络中心，客服中心，AI，freeswitch，opensips，LLM，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄），大模型，LLM，LangChain，RAG检索模块!
 
 ## 😄完整性：前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
@@ -14,7 +14,7 @@ LLM Call Center,AI Call Center,大模型呼叫中心,AI Contact Center,大模型
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.04.11最新demo链接enjoy😄：
+## 2025.04.12最新demo链接enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
