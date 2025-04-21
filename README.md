@@ -14,13 +14,16 @@ LLM Call Center,AI Call Center,大模型呼叫中心,AI Contact Center,大模型
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.04.20最新demo链接enjoy😄：
+## 2025.04.21最新demo链接enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
 
 2，工单：(demo/123456)
 http://118.25.192.13:80
+
+注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
+![image](https://github.com/user-attachments/assets/bcb346cd-9f41-4f92-9062-3f932928225b)
 
 ## 开发语言：Java Python为主
 
