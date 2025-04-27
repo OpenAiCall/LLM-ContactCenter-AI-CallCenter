@@ -62,6 +62,11 @@ http://124.220.48.38:80
 ## 关于源码与付费： 付费后，我们将会提供对应模块源码及一次源码培训（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 
+## 😄用户专属群支持小组的人员数量：10人左右
+下图是随机抽取的复制支持的群：
+![image](https://github.com/user-attachments/assets/5d0504ec-3986-47fc-a510-6b2e8767fb47)
+![image](https://github.com/user-attachments/assets/cb0990dc-0c2e-4364-8d08-a8f3437e1702)
+
 ## 其它语言
 英语
 Call center, call center system, telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, call center system, artificial intelligence, inbound robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system!!!
